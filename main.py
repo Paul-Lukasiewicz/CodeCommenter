@@ -82,7 +82,7 @@ def call_llm(prompt: str) -> str:
     client = OpenAI(
         organization="org-hxzkzI0BvBrIUBTCM8Ukg4hX",
         project="proj_egQnKwuK7lvmdC38Xoed2wUj",
-        api_key="sk-proj-PBRVTyzyE9gr11SM9BCaT3BlbkFJRsoyXsoWbavK6pR5iWhD"
+        api_key=""
     )
 
     # Envoie le prompt au modèle de langage pour obtenir le code commenté.
