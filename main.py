@@ -81,7 +81,7 @@ def call_llm(prompt: str) -> str:
     # Initialise le client OpenAI avec les informations d'authentification.
     client = OpenAI(
         organization="org-hxzkzI0BvBrIUBTCM8Ukg4hX",
-        project="proj_egQnKwuK7lvmdC38Xoed2wUj",
+        project="",
         api_key=""
     )
 
